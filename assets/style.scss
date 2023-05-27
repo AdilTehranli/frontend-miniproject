@@ -306,7 +306,85 @@ section{
 
         }
     }
-    
+    }
+}
+#section-text3{
+    height: 600px;
+    .container3{
+        width: 90%;
+        margin: 0 auto;
+
+        .titles-h1{
+            display: flex;
+            align-items: center;
+            padding-top: 139px;
+            font-size: 34px;
+            justify-content: center;
+            h1{
+                span{
+                    color: #FF3839;
+                }
+            }
+        }
+        .buttons-text3{
+            margin-top: 30px;
+            display: flex;
+            gap: 5px;
+            align-items: center;
+           
+            justify-content: center;
+        }
+        .button_red{
+            
+            button{
+                background-color: #FF3839;
+                width: 55px;
+                color: white;
+                border: none;
+                height: 32px;
+                border-radius: 3px;
+            }
+        }
+        .button_ux{
+            button{
+                background-color:#F2F2F2;
+                width: 71px;
+                color: black;
+                border: none;
+                height: 32px;
+                border-radius: 3px;
+            }
+        }
+        .button_dev{
+            button{
+                background-color:#F2F2F2;
+                width: 122px;
+                color: black;
+                border: none;
+                height: 32px;
+                border-radius: 3px;
+            }
+        }
+        .button_mob{
+            button{
+                background-color:#F2F2F2;
+                width: 150px;
+                color: black;
+                border: none;
+                height: 32px;
+                border-radius: 3px;
+            }
+        }
+    .button_seo{
+        button{
+            background-color:#F2F2F2;
+            width: 62px;
+            color: black;
+            border: none;
+            height: 32px;
+            border-radius: 3px;
+        }
+    }
     }
 }
 
