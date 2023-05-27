@@ -297,15 +297,28 @@ section {
   width: 90%;
   margin: 0 auto;
 }
+#section-text3 .container3 .title_p {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 65px;
+  color: #696969;
+}
 #section-text3 .container3 .titles-h1 {
   display: flex;
   align-items: center;
-  padding-top: 139px;
   font-size: 34px;
+  margin-top: 24px;
   justify-content: center;
 }
 #section-text3 .container3 .titles-h1 h1 span {
   color: #FF3839;
+}
+#section-text3 .container3 .complated {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  font-size: 34px;
 }
 #section-text3 .container3 .buttons-text3 {
   margin-top: 30px;
@@ -313,6 +326,9 @@ section {
   gap: 5px;
   align-items: center;
   justify-content: center;
+}
+#section-text3 .container3 .button_red {
+  text-decoration: none;
 }
 #section-text3 .container3 .button_red button {
   background-color: #FF3839;
@@ -322,6 +338,10 @@ section {
   height: 32px;
   border-radius: 3px;
 }
+#section-text3 .container3 .button_red button a {
+  text-decoration: none;
+  color: white;
+}
 #section-text3 .container3 .button_ux button {
   background-color: #F2F2F2;
   width: 71px;
@@ -329,6 +349,10 @@ section {
   border: none;
   height: 32px;
   border-radius: 3px;
+}
+#section-text3 .container3 .button_ux button a {
+  text-decoration: none;
+  color: #202020;
 }
 #section-text3 .container3 .button_dev button {
   background-color: #F2F2F2;
@@ -338,6 +362,10 @@ section {
   height: 32px;
   border-radius: 3px;
 }
+#section-text3 .container3 .button_dev button a {
+  text-decoration: none;
+  color: #202020;
+}
 #section-text3 .container3 .button_mob button {
   background-color: #F2F2F2;
   width: 150px;
@@ -346,6 +374,10 @@ section {
   height: 32px;
   border-radius: 3px;
 }
+#section-text3 .container3 .button_mob button a {
+  text-decoration: none;
+  color: #202020;
+}
 #section-text3 .container3 .button_seo button {
   background-color: #F2F2F2;
   width: 62px;
@@ -353,4 +385,18 @@ section {
   border: none;
   height: 32px;
   border-radius: 3px;
+}
+#section-text3 .container3 .button_seo button a {
+  text-decoration: none;
+  color: #202020;
+}
+#section-text3 .container3 .skils_images {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  margin-top: 40px;
+  gap: 15px;
+}
+#section-text3 .container3 .middle_photo {
+  height: 500px;
 }/*# sourceMappingURL=style.css.map */
