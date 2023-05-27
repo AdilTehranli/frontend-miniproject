@@ -38,7 +38,7 @@
 }
 .allnav #pageside a {
   text-decoration: none;
-  color: #FFFFFF;
+  color: #ffffff;
 }
 .allnav #pageside li {
   list-style: none;
@@ -50,9 +50,9 @@
 }
 .allnav .contact button {
   padding: 7px 35px;
-  background: #FF3839;
+  background: #ff3839;
   border-radius: 11px;
-  color: #FFFFFF;
+  color: #ffffff;
   border: none;
 }
 
@@ -75,7 +75,7 @@ section {
   font-size: 20px;
 }
 .backimage .texts .title span {
-  color: #FF3839;
+  color: #ff3839;
 }
 .backimage .texts .largetext {
   padding-top: 20px;
@@ -91,7 +91,7 @@ section {
 .backimage .texts .leave {
   width: 563px;
   height: 0px;
-  border: 2px solid #FF3839;
+  border: 2px solid #ff3839;
   text-align: center;
   justify-content: center;
 }
@@ -119,16 +119,16 @@ section {
   padding-bottom: 126px;
 }
 .backimage .texts .centerbut .hire {
-  background-color: #FF3839;
+  background-color: #ff3839;
   border-radius: 3px;
   border: none;
   font-size: 17px;
   width: 151px;
   height: 45px;
-  color: #FFFFFF;
+  color: #ffffff;
 }
 .backimage .texts .centerbut .port {
-  background: #FFFFFF;
+  background: #ffffff;
   border: none;
   width: 151px;
   height: 45px;
@@ -173,7 +173,7 @@ section {
   font-size: 18px;
 }
 #section-text .container .row .titles .titles_text p span {
-  color: #FF3839;
+  color: #ff3839;
 }
 #section-text .container .row .titles .titles_h1 {
   margin-top: 42px;
@@ -183,7 +183,7 @@ section {
   font-size: 67px;
 }
 #section-text .container .row .titles .titles_h1 .red {
-  color: #FF3839;
+  color: #ff3839;
   margin-top: 43px;
 }
 #section-text .container .row .titles .infos {
@@ -198,13 +198,13 @@ section {
   margin-top: 20px;
 }
 #section-text .container .row .titles .buttons button {
-  background-color: #FF3839;
+  background-color: #ff3839;
   border-radius: 3px;
   border: none;
   font-size: 17px;
   width: 151px;
   height: 45px;
-  color: #FFFFFF;
+  color: #ffffff;
 }
 
 #section-text2 {
@@ -220,39 +220,36 @@ section {
   width: 50%;
 }
 #section-text2 .container2 .titles2 .offer p {
-  color: #FFFFFF;
+  color: #ffffff;
   font-size: 17px;
 }
 #section-text2 .container2 .titles2 .offer p span {
-  color: #FF3839;
+  color: #ff3839;
 }
 #section-text2 .container2 .titles2 .service h1 {
-  color: #FFFFFF;
+  color: #ffffff;
   margin-top: 15px;
   width: 508px;
   font-size: 71px;
 }
 #section-text2 .container2 .titles2 .service h1 span {
-  color: #FF3839;
+  color: #ff3839;
 }
 #section-text2 .container2 .titles2 .longword p {
   font-family: "Poppins";
-  color: #FFFFFF;
+  color: #ffffff;
   margin-top: 20px;
   width: 501px;
 }
 #section-text2 .container2 .titles2 .service_button button {
-  background-color: #FF3839;
+  background-color: #ff3839;
   border-radius: 3px;
   border: none;
   font-size: 17px;
   margin-top: 35px;
   width: 151px;
   height: 45px;
-  color: #FFFFFF;
-}
-#section-text2 .container2 .titles2 .service_button img {
-  width: 100;
+  color: #ffffff;
 }
 #section-text2 .container2 .card-up {
   display: flex;
@@ -264,7 +261,7 @@ section {
   width: 265px;
   height: 180px;
   border-radius: 6px;
-  background-color: #FFFFFF;
+  background-color: #ffffff;
   position: relative;
 }
 #section-text2 .container2 .card-up .card h3 {
@@ -283,7 +280,7 @@ section {
   border-radius: 29px;
   width: 60px;
   height: 56px;
-  background-color: #FF3839;
+  background-color: #ff3839;
 }
 #section-text2 .container2 .card-up .card .uxicon img {
   margin-left: 5px;
@@ -291,7 +288,7 @@ section {
 }
 
 #section-text3 {
-  height: 600px;
+  height: 842px;
 }
 #section-text3 .container3 {
   width: 90%;
@@ -312,7 +309,7 @@ section {
   justify-content: center;
 }
 #section-text3 .container3 .titles-h1 h1 span {
-  color: #FF3839;
+  color: #ff3839;
 }
 #section-text3 .container3 .complated {
   display: flex;
@@ -331,7 +328,7 @@ section {
   text-decoration: none;
 }
 #section-text3 .container3 .button_red button {
-  background-color: #FF3839;
+  background-color: #ff3839;
   width: 55px;
   color: white;
   border: none;
@@ -343,7 +340,7 @@ section {
   color: white;
 }
 #section-text3 .container3 .button_ux button {
-  background-color: #F2F2F2;
+  background-color: #f2f2f2;
   width: 71px;
   color: black;
   border: none;
@@ -355,7 +352,7 @@ section {
   color: #202020;
 }
 #section-text3 .container3 .button_dev button {
-  background-color: #F2F2F2;
+  background-color: #f2f2f2;
   width: 122px;
   color: black;
   border: none;
@@ -367,7 +364,7 @@ section {
   color: #202020;
 }
 #section-text3 .container3 .button_mob button {
-  background-color: #F2F2F2;
+  background-color: #f2f2f2;
   width: 150px;
   color: black;
   border: none;
@@ -379,7 +376,7 @@ section {
   color: #202020;
 }
 #section-text3 .container3 .button_seo button {
-  background-color: #F2F2F2;
+  background-color: #f2f2f2;
   width: 62px;
   color: black;
   border: none;
@@ -398,5 +395,212 @@ section {
   gap: 15px;
 }
 #section-text3 .container3 .middle_photo {
-  height: 500px;
+  height: 600px;
+}
+
+#section-text4 {
+  background-color: #202020;
+  height: 660px;
+}
+#section-text4 .container4 {
+  width: 80%;
+  margin: 0 auto;
+}
+#section-text4 .container4 .general {
+  display: flex;
+  justify-content: space-between;
+}
+#section-text4 .container4 .general .title_fed {
+  display: flex;
+  padding-top: 100px;
+  width: 311px;
+}
+#section-text4 .container4 .general .title_fed .solid {
+  width: 134px;
+  height: 1px;
+  background-color: #d8d8d8;
+  margin-top: 11px;
+}
+#section-text4 .container4 .general .title_fed p {
+  font-family: "poppins", sans-serif;
+  font-style: normal;
+  font-size: 16px;
+  color: #ffffff;
+  margin-left: 15px;
+}
+#section-text4 .container4 .general .title_fed p span {
+  color: red;
+}
+#section-text4 .container4 .general .circle {
+  display: flex;
+  gap: 7px;
+  padding-top: 108px;
+}
+#section-text4 .container4 .general .solid2 {
+  width: 134px;
+  height: 1px;
+  margin-top: 8px;
+  background-color: #d9d9d9;
+}
+#section-text4 .container4 .general .circle1 {
+  width: 16px;
+  height: 16px;
+  background-color: #d9d9d9;
+  border-radius: 50%;
+}
+#section-text4 .costumer_h1 h1 {
+  font-size: 51px;
+  margin-top: 23px;
+  width: 464px;
+  color: #f2f2f2;
+}
+#section-text4 .costumer_h1 h1 span {
+  color: red;
+}
+#section-text4 .name_cards {
+  display: flex;
+  margin-top: 82px;
+  gap: 20px;
+  position: relative;
+}
+#section-text4 .name_cards .name_card-left {
+  width: 404px;
+  border-radius: 6px;
+  height: 221px;
+  background-color: #ffffff;
+  position: relative;
+}
+#section-text4 .name_cards .name_card-left .logo_name img {
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  padding: 26px;
+  margin-left: 164px;
+  margin-top: -223px;
+  background-color: #ff3839;
+  position: absolute;
+}
+#section-text4 .name_cards h4 {
+  font-family: "Poppins";
+  margin-top: 60px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#section-text4 .name_cards img {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-top: 10px;
+  padding-left: 120px;
+}
+#section-text4 .name_cards p {
+  padding-top: 13px;
+  font-size: 14px;
+  font-family: "Poppins";
+  display: flex;
+  text-align: center;
+}
+
+#section-text5 {
+  padding-bottom: 100px;
+}
+#section-text5 .container5 {
+  width: 70%;
+  margin: 0 auto;
+}
+#section-text5 .container5 .solids {
+  display: flex;
+  align-items: center;
+  padding-top: 100px;
+  gap: 8px;
+  justify-content: center;
+}
+#section-text5 .container5 .solids .solid_ques {
+  width: 134px;
+  height: 1px;
+  background-color: #d8d8d8;
+  margin-top: 5px;
+}
+#section-text5 .container5 .solids .solid_ques2 {
+  width: 134px;
+  height: 1px;
+  background-color: #d8d8d8;
+  margin-top: 5px;
+}
+#section-text5 .container5 .question_h1 {
+  display: flex;
+  align-items: center;
+  padding-top: 15px;
+  justify-content: center;
+}
+#section-text5 .container5 .question_h1 h1 {
+  font-size: 55px;
+}
+#section-text5 .container5 .question {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+#section-text5 .container5 .question h1 {
+  font-size: 55px;
+  color: #ff3839;
+}
+#section-text5 .container5 .border {
+  display: flex;
+  align-items: center;
+  height: 71px;
+  border-radius: 6px;
+  background-color: #202020;
+  margin-top: 50px;
+  position: relative;
+}
+#section-text5 .container5 .border .border_text {
+  display: flex;
+  padding-left: 40px;
+}
+#section-text5 .container5 .border .border_text p {
+  color: #f2f2f2;
+}
+#section-text5 .container5 .border .border_text img {
+  position: absolute;
+  right: 25px;
+}
+#section-text5 .container5 .question_p {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+#section-text5 .container5 .question_p p {
+  margin-top: 20px;
+  text-align: center;
+}
+#section-text5 .container5 .question_p p img {
+  position: relative;
+}
+#section-text5 .container5 .comment_question {
+  align-items: center;
+  position: relative;
+  margin-top: 20px;
+}
+#section-text5 .container5 .comment_question .comment1 {
+  display: flex;
+  height: 71px;
+  margin-top: 20px;
+  border-radius: 6px;
+  background-color: #F1F1F1;
+}
+#section-text5 .container5 .comment_question .comment1 p {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  padding-top: 25px;
+  color: black;
+  padding-left: 40px;
+}
+#section-text5 .container5 .comment_question .comment1 img {
+  height: 15px;
+  position: absolute;
+  margin-top: 24px;
+  right: 25px;
 }/*# sourceMappingURL=style.css.map */
