@@ -588,7 +588,7 @@ section {
   height: 71px;
   margin-top: 20px;
   border-radius: 6px;
-  background-color: #F1F1F1;
+  background-color: #f1f1f1;
 }
 #section-text5 .container5 .comment_question .comment1 p {
   display: flex;
@@ -603,4 +603,121 @@ section {
   position: absolute;
   margin-top: 24px;
   right: 25px;
+}
+
+#section-text6 {
+  height: 850px;
+  background-color: #f1f1f1;
+}
+#section-text6 .container6 {
+  width: 85%;
+  margin: 0 auto;
+  display: flex;
+}
+#section-text6 .container6 .contact_border {
+  width: 50%;
+}
+#section-text6 .container6 .contact_border .contact_solid {
+  display: flex;
+  gap: 4px;
+  padding-top: 80px;
+}
+#section-text6 .container6 .contact_border .contact_solid .solid4 {
+  width: 134px;
+  height: 2px;
+  background-color: #d8d8d8;
+  margin-top: 11px;
+}
+#section-text6 .container6 .contact_border .contact_solid p {
+  color: #ff3839;
+  font-family: "Poppins";
+}
+#section-text6 .container6 .contact_border .contact_h1 h1 {
+  color: black;
+  padding-top: 10px;
+  font-size: 55px;
+  font-family: "Poppins";
+}
+#section-text6 .container6 .contact_border .contact_h1 h1 span {
+  color: #ff3839;
+}
+#section-text6 .container6 .contact_border .contact_p p {
+  font-family: "Poppins";
+  width: 600px;
+  padding-top: 20px;
+}
+#section-text6 .container6 .contact_border .all_input {
+  margin-top: 25px;
+}
+#section-text6 .container6 .contact_border .all_input .contact_input-name input {
+  width: 590px;
+  height: 60px;
+  border-color: #cacaca;
+  border-radius: 5px;
+}
+#section-text6 .container6 .contact_border .all_input .contact_input-name input::-moz-placeholder {
+  color: black;
+  padding-left: 20px;
+  font-family: "Poppins";
+}
+#section-text6 .container6 .contact_border .all_input .contact_input-name input::placeholder {
+  color: black;
+  padding-left: 20px;
+  font-family: "Poppins";
+}
+#section-text6 .container6 .contact_border .all_input .contact_input-email input {
+  width: 590px;
+  color: #ff3839;
+  height: 60px;
+  margin-top: 20px;
+  border-radius: 5px;
+  border-color: #cacaca;
+}
+#section-text6 .container6 .contact_border .all_input .contact_input-email input::-moz-placeholder {
+  color: black;
+  padding-left: 20px;
+  font-family: "Poppins";
+}
+#section-text6 .container6 .contact_border .all_input .contact_input-email input::placeholder {
+  color: black;
+  padding-left: 20px;
+  font-family: "Poppins";
+}
+#section-text6 .container6 .contact_border .all_input .contact_input-text {
+  margin-top: 20px;
+}
+#section-text6 .container6 .contact_border .all_input .contact_input-text textarea {
+  border-color: #cacaca;
+  border-radius: 5px;
+}
+#section-text6 .container6 .contact_border .all_input .contact_input-text textarea::-moz-placeholder {
+  color: black;
+  padding-top: 20px;
+  padding-left: 20px;
+  font-size: 14px;
+  font-family: "Poppins";
+}
+#section-text6 .container6 .contact_border .all_input .contact_input-text textarea::placeholder {
+  color: black;
+  padding-top: 20px;
+  padding-left: 20px;
+  font-size: 14px;
+  font-family: "Poppins";
+}
+#section-text6 .container6 .contact_border .contact_button {
+  margin-top: 25px;
+}
+#section-text6 .container6 .contact_border .contact_button button {
+  background-color: #ff3839;
+  border: none;
+  color: white;
+  border-radius: 6px;
+  width: 140px;
+  height: 48px;
+}
+#section-text6 .container6 .contact_border-image {
+  width: 50%;
+}
+#section-text6 .container6 .contact_border-image .contact_image img {
+  padding-top: 20px;
 }/*# sourceMappingURL=style.css.map */
