@@ -19,6 +19,9 @@
   margin: 0 auto;
   display: flex;
 }
+.allnav .bar {
+  display: none;
+}
 .allnav #logoside {
   list-style: none;
   display: flex;
